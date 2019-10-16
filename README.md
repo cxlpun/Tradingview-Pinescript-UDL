@@ -1,6 +1,10 @@
 # Tradingview-Pinescript-UDL
 Pinescript Editor Background .XML and Language.XML for Notepad++
 
+## Notes
+
+- This setup will allow any file with **.pine** extension to use this language by default
+
 ## Installation Guide
 ### 1. Install Notepad++ (if necessary)
 Notepad++ Downloads page can be found [here](https://notepad-plus-plus.org/downloads/)
@@ -42,3 +46,7 @@ Click **Save & Close**
 Now when you open any file extension with **.pine** or select it in the **Language Tab**, it should look like this:
 
 ![8](https://user-images.githubusercontent.com/38841927/66919606-881d9700-f019-11e9-9890-a8e9394e57d5.JPG)
+
+## Donations
+### ETH
+### 0x292c1287875A967bceE259df60D5B83a36539E98
