@@ -40,10 +40,10 @@ In Notepad++ navigate to **Settings Tab > Style Configurator...**
 
 ![5](https://user-images.githubusercontent.com/38841927/66919603-881d9700-f019-11e9-86b3-7366ee2d6191.JPG)
 
-Select theme: **Tradingview Background** and check the **Enable global background colour** box.
+Select theme: **Tradingview Background** and check the **Enable global background colour**, **Enable Global font** and **Enable global font size** check boxes.
 Click **Save & Close**
 
-![7](https://user-images.githubusercontent.com/38841927/66919605-881d9700-f019-11e9-8920-f3c319ad8650.JPG)
+![7](https://user-images.githubusercontent.com/38841927/67007908-53c0de00-f0e0-11e9-8ff7-0086aed8cbd1.PNG)
 
 Now when you open any file extension with **.pine** or select it in the **Language Tab**, it should look like this:
 
