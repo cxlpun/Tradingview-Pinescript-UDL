@@ -734,7 +734,7 @@ ETH:	0x292c1287875A967bceE259df60D5B83a36539E98
         <WidgetStyle name="Brace highlight style" styleID="34" fgColor="00FF00" bgColor="2F3241" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FF0000" bgColor="2F3241" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="333333" fgColor="0080C0" fontSize="" fontStyle="0" />
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="333534" fgColor="CC0000" fontStyle="0" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="4C4C4C" fgColor="CC0000" fontStyle="0" />
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="FFFFFF" bgColor="253B76" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="80FFFF" bgColor="000000" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="C5CBCE" bgColor="2F3241" fontName="" fontStyle="0" fontSize="" />
